@@ -7,4 +7,4 @@ export const projects = [
       projectLink: "https://www.youtube.com/watch?v=RA0fSl1yqOc",
       description: "Work Buddies is a command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
       tech: "html, css, javascript, bash, CLI, inquirer, jest"
-    }
+    }]
