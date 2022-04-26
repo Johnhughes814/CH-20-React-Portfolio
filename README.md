@@ -1,3 +1,40 @@
+# John's Portfolio
+
+![ALT_TEXT](https://img.shields.io/badge/GRAY_TEXT-COLOR_TEXT-COLOR)
+
+## Description
+ADD_DESCRIPTION_HERE
+
+### ![DEMO_IMAGE_OR_MOVIE](ENTER_URL)
+
+<img src="ENTER_URL" width="IDEAL_PERCENT%"/>
+
+
+## Table of Contents
+  - [License](#license)
+  - [Installation](#installation)
+  - [Contributers](#contributers)
+  - [Contact](#contact)
+
+
+## License
+<a href="https://opensource.org/licenses/MIT">
+<img src="https://img.shields.io/badge/GRAY_TEXT-COLOR_TEXT-COLOR" alt="MIT"></a>
+
+## Context
+ADD_USE_CASE_AND_RELEVANT_ADDITIONAL_DESCRIPTION
+
+## Installation
+```
+ADD_COMMAND
+```
+
+## Contributers
+Using the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md), feel free to download, fork, clone, or replicate... thank you and enjoy! 
+
+## Contact
+This project was created by [John](https://github.com/johnhughes814).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
