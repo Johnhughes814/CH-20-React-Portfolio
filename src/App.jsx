@@ -16,7 +16,8 @@ const App = () => {
         // THIS IS WHAT GETS RENDERED ON THE UI
         // TERNARY OPERATOR IS ACONDTIONAL STATEMENT: CONDITION ? TRUE RENDER THIS ; FALSE RENDER THIS
         <div style={{
-            backgroundColor: darkMode ? "#222" : "white"
+            backgroundColor: darkMode ? "#222" : "white",
+            color: darkMode && "white",
         }}
         >
             <Nav />
