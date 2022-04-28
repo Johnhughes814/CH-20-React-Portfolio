@@ -31,7 +31,7 @@ export const projects = [
     {
       id: 4,
       title: "Markdown Maker",
-      img: "",
+      img: "https://res.cloudinary.com/practicaldev/image/fetch/s--7yVSltAE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://user-images.githubusercontent.com/9840435/59461914-cbc18380-8e22-11e9-8567-87b43da950ac.png",
       gitHubLink: "https://github.com/Johnhughes814/CH-9-Markdown-Maker",
       projectLink: "https://www.youtube.com/watch?v=9CXSRNF63Ho",
       description: "a command-line application that dynamically generates a professional README.md file from a user's input",
@@ -51,7 +51,7 @@ export const projects = [
     {
       id: 6,
       title: "Model View Controller",
-      img: "",
+      img: "https://miro.medium.com/proxy/0*Qf1s2lG86MjX-Zcv.jpg",
       gitHubLink: "https://github.com/Johnhughes814/CH-14-MVC",
       projectLink: "",
       description: "A blog that allows users to login, submit posts, comment on posts, and delete posts. Data is stored in a DB so all comments and are accessible to all client.",
