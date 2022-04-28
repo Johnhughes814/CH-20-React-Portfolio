@@ -15,7 +15,7 @@ const Contact = () => {
           <div className="c_info">
             <div className="c_info-item">
               <img src={Phone} alt="" className="c_icon" />
-              (512-902-7545)
+              (512)-902-7545
             </div>
             <div className="c_info-item">
               <img className="c_icon" src={Email} alt="" />
