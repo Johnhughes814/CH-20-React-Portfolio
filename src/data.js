@@ -12,7 +12,7 @@ export const projects = [
   {
     id: 2,
     title: "BeersandBands",
-    img: "https://pixabay.com/photos/beer-toast-sunset-bottles-drink-6627547/.png",
+    img: "https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Oktoberfest-Clipart-PNG/Mug_with_Beer_PNG_Clipart.png?m=1595309842",
     gitHubLink: "https://github.com/sarahwylie/BeersandBands",
     projectLink: "https://sarahwylie.github.io/BeersandBands/",
     description:
