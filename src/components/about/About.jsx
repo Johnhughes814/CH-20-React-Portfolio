@@ -13,20 +13,17 @@ const About = () => {
       <div className="a_right">
         <h1 className="a_title">About Me</h1>
         <p className="a_sub">
-          One Sentence here perhaps this long this long this long this long this long this long this long this long this long this long.
+          Former student at The University of Texas at Austin
         </p>
         <p className="a_desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          Studied Full-Stack Web Development
         </p>
         <div className="a_sub">
           <img src={PlaceholderImage} alt="" className="a_sub-img" />
           <div className="a_sub-texts">
             <h4 className="a_sub-title">Skills</h4>
             <p className="a_sub-desc">
-             TEST
+              TEST
             </p>
           </div>
         </div>
