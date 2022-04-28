@@ -26,7 +26,7 @@ const About = () => {
           <div className="a_sub-texts">
             <h4 className="a_sub-title">Skills</h4>
             <p className="a_sub-desc">
-              IMAGES OF SKILLS? LIST OF SKILLS?
+             TEST
             </p>
           </div>
         </div>
