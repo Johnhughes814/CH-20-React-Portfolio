@@ -21,9 +21,9 @@ const About = () => {
         <div className="a_sub">
           <img src={PlaceholderImage} alt="" className="a_sub-img" />
           <div className="a_sub-texts">
-            <h4 className="a_sub-title">Skills</h4>
+            <h4 className="a_sub-title">Fun Fact</h4>
             <p className="a_sub-desc">
-              TEST
+            I have a pug!
             </p>
           </div>
         </div>
