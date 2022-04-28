@@ -15,7 +15,7 @@ const Contact = () => {
           <div className="c_info">
             <div className="c_info-item">
               <img src={Phone} alt="" className="c_icon" />
-              phone here
+              (512-902-7545)
             </div>
             <div className="c_info-item">
               <img className="c_icon" src={Email} alt="" />
@@ -23,7 +23,7 @@ const Contact = () => {
             </div>
             <div className="c_info-item">
               <img className="c_icon" src={Address} alt="" />
-              address here
+              Austin, TX
             </div>
           </div>
         </div>
