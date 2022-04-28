@@ -6,7 +6,8 @@ import { ThemeProvider } from './context';
 ReactDom.render(
     <React.StrictMode>
         <ThemeProvider>
-            <App/ >
+            <App />
         </ThemeProvider>
-    </React.StrictMode>
+    </React.StrictMode>,
+    document.getElementById(root)
 );
