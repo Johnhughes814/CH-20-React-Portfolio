@@ -21,11 +21,11 @@ const App = () => {
         }}
         >
             <Nav />
-            {/* <Intro />
+            <Intro />
             <About />
             <ProjectList />
             <Skills />
-            <Contact /> */}
+            <Contact />
         </div>
 
     );
