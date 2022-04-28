@@ -23,7 +23,7 @@ const Contact = () => {
             </div>
             <div className="c_info-item">
               <img className="c_icon" src={Address} alt="" />
-              Austin Texas
+              Austin, TX
             </div>
           </div>
         </div>
