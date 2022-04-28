@@ -18,9 +18,7 @@ const Intro = () => {
             </div>
           </div>
           <p className="i_desc">
-            1 - 2 sentences about this length about this length about this length 
-            about this length about this length about this length about this length
-            about this length about this length about this length.
+           Welcome to my portfolio!
           </p>
         </div>
       
