@@ -21,7 +21,7 @@ const About = () => {
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
         </p>
-        {/* <div className="a_sub">
+        <div className="a_sub">
           <img src={PlaceholderImage} alt="" className="a_sub-img" />
           <div className="a_sub-texts">
             <h4 className="a_sub-title">Skills</h4>
@@ -31,7 +31,7 @@ const About = () => {
           </div>
         </div>
       </div>
-    </div> */}
+    </div>
   );
 };
 
